@@ -39,6 +39,7 @@ Shodan
 Wireshark
 
 📁 Estructura del repositorio
+```
 wazuh-lab-soc-l1/
   ├── README.md
   ├── setup/
@@ -50,6 +51,7 @@ wazuh-lab-soc-l1/
   └── evidencias/
         ├── capturas-alertas/
         └── logs-ejemplo/
+```
 
 🔔 Alertas analizadas en este laboratorio
 
